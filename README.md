@@ -38,15 +38,15 @@ Este repositório contém os arquivos de configuração e scripts relacionados a
 ## Estrutura do Repositório
 
 - **`/i3/`:** Configurações do i3wm.
-- **`/alacritty/`:** Configurações do emulador de terminal Alacritty (`alacritty.yml`).
-- **`/nvim/`:** Configurações do Neovim (`init.lua`).
+- **`/alacritty/`:** Configurações do emulador de terminal Alacritty.
+- **`/nvim/`:** Configurações do Neovim.
 - **`/scripts/`:** Scripts úteis para automação e personalização.
 - **`/config/`:** Configurações específicas de programas gráficos.
 
-## Como Usar
+## Como Usar (Repositório atualmente incompleto)
 
 1. **Clonar o Repositório:**
-   (deixe aqui com uma linha em branco)
+   - ...
 
 2. **Aplicar Configurações:**
    - Copie os arquivos relevantes para os diretórios apropriados em sua máquina.
