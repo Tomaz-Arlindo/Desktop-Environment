@@ -63,6 +63,6 @@ Sinta-se à vontade para contribuir ou sugerir melhorias para o ambiente. Pull r
 
 ## Contato
 
-Em caso de dúvidas ou sugestões, entre em contato pelo [e-mail](tomaz.recife@gmail.com).
+Em caso de dúvidas ou sugestões, entre em contato pelo [e-mail](mailto:tomaz.recife@gmail.com).
 
 Divirta-se programando!
